@@ -1,0 +1,8 @@
+/node_modules
+__MACOSX
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
+.idea
